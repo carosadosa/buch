@@ -1,2 +1,6 @@
 /* Stylesheet für die Übungswebsite aus "Einstieg in HTML + CSS" */
 
+nav li {
+    display: inline;
+    margin-right: 0.5rem;
+}

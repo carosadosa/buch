@@ -12,24 +12,24 @@
 
 
 /* Gestaltung Navigation */
-nav li {
+.site-nav li {
     display: inline;
     margin-right: 0.5rem;
 }
 
-nav {
+.site-nav {
     background-color: black;
     color: white;
     padding: 0.5rem;  
     margin: 1rem 0;
 }
 
-nav ul {
+.site-nav ul {
     padding: 0;
     margin: 0;
 }
 
-nav a {
+.site-nav a {
     color: white;
     text-decoration: none;
 }

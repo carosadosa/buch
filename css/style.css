@@ -3,10 +3,10 @@
 /*Gestaltung Kopfbereich vom Body*/
 
 /*Fine-Tuning: Aussenabstände um Logo und Slogan anpassen*/
-header h1 {
+.site-header h1 {
     margin-bottom: 0;
 }
-header p {
+.site-header p {
     margin-top: 0;
 }
 

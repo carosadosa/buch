@@ -34,6 +34,26 @@
     text-decoration: none;
 }
 
+/*Gestaltung Main*/
+
+/*2. Grundlegende Gestaltung des Abschnitts (section) "infoboxen"*/
+
+.infoboxen {
+    background-color: whitesmoke;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+.infobox {
+    text-align: center;
+    background-color: white;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+
+
+
 /*Gestaltung Footer*/
 
 .site-footer {

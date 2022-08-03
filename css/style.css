@@ -36,14 +36,14 @@
 
 /*Gestaltung Footer*/
 
-footer {
+.site-footer {
     background-color: black;
     color: white;
     text-align: right;
     padding: 0.5rem;
 }
 
-footer a {
+.site-footer a {
     color: white;
     text-decoration: none;
 }
